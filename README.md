@@ -16,5 +16,5 @@
 </p>
 
 <p align="center"
-  <img href="https://github-readme-stats.vercel.app/api?username=Rose-uwu&theme=rose_pine">
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rose-uwu&show_icons=true&theme=rose-pine)](https://github.com/anuraghazra/github-readme-stats)
 </p>
