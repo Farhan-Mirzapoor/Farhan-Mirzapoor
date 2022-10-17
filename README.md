@@ -16,5 +16,5 @@
 </p>
 
 <p align="center"
-  <img href="https://github-readme-stats.vercel.app/api?username=thatonecalculator&theme=rose_pine"></img>
+  <img href="https://github-readme-stats.vercel.app/api?username=thatonecalculator&theme=rose_pine">
 </p>
