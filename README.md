@@ -3,10 +3,6 @@
 </h1>
 
 <h3 align="center">
-  a dumbass
-</h3>
-
-<h3 align="center">
   Languages and Tools:
 </h3>
 
