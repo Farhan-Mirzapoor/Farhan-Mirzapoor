@@ -6,11 +6,11 @@
   a dumbass
 </h3>
 
-<h3 align="left">
+<h3 align="center">
   Languages and Tools:
 </h3>
 
-<p align="left">
+<p align="center">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>
@@ -19,6 +19,6 @@
   </a>
 </p>
 
-<p>
+<p align="center">
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rose-uwu&show_icons=true&theme=tokyonight&locale=en" alt="rose-uwu" />
 </p>
