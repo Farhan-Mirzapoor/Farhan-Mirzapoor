@@ -16,5 +16,5 @@
 </p>
 
 <p align="center">
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rose-uwu&show_icons=true&theme=tokyonight&locale=en" alt="rose-uwu" />
+  https://github-readme-stats.vercel.app/api?username=thatonecalculator&theme=rose_pine
 </p>
