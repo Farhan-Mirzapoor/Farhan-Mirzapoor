@@ -37,9 +37,3 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Farhan-mirzapoor/Farhan-mirzapoor/output/snake.svg" alt="Snake animation" />
-
-###
